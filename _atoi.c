@@ -2,7 +2,7 @@
 
 /**
  * - returns true if the shell is in interactive mode
- 
+
  * Return: 1 if interactive mode and 0 otherwise
  */
 int interactive(info_t *info)
@@ -41,8 +41,8 @@ int _isalpha(int c)
 /**
  * converts the string to an integer
  *@s: the string to be converted
- 
- */
+
+*/
 
 int _atoi(char *s)
 {
